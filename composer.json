@@ -1,0 +1,27 @@
+{
+    "name":"mugomes/mgdb",
+    "authors": [
+        {
+            "name": "Murilo Gomes Julio",
+            "email": "mugomes@zohomail.com",
+            "homepage": "https://linktr.ee/mugomes"
+        }
+    ],
+    "homepage": "https://linktr.ee/mugomes",
+    "_comment": [
+        "Murilo Gomes",
+        "Copyright (C) 2004-2024 Murilo Gomes Julio"
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/mugomes/mgdb/issues"
+    },
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "MGDB\\": "src/"
+        }
+    }
+}
