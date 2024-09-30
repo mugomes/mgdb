@@ -5,7 +5,7 @@
 // Murilo Gomes
 // Site: https://linktr.ee/mugomes
 
-namespace MGDB\database;
+namespace MGDB;
 
 class insert extends database
 {
